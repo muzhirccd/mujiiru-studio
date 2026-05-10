@@ -51,7 +51,7 @@ export function Navigation() {
             </div>
             <div>
               <div style={{ fontFamily: 'var(--font-display)', fontSize: '17px', fontWeight: 400, color: 'var(--charcoal)', letterSpacing: '0.02em', lineHeight: 1 }}>
-                akuma
+                MujiiRu
               </div>
               <div style={{ fontSize: '9px', letterSpacing: '0.18em', textTransform: 'uppercase', color: 'var(--dust-gray)', lineHeight: 1, marginTop: '2px' }}>
                 studio

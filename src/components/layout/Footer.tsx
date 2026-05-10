@@ -12,7 +12,7 @@ export function Footer() {
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: '40px', marginBottom: '48px' }}>
           <div>
             <div style={{ fontFamily: 'var(--font-display)', fontSize: '28px', fontWeight: 300, color: 'var(--charcoal)', marginBottom: '10px' }}>
-              akuma studio
+              MujiiRu studio
             </div>
             <p style={{ fontSize: '13px', color: 'var(--dust-gray)', maxWidth: '260px', lineHeight: 1.7 }}>
               Bringing stories to life through thoughtful, character-driven illustration.
@@ -66,7 +66,7 @@ export function Footer() {
 
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '16px' }}>
           <p style={{ fontSize: '11px', color: 'var(--dust-gray)', letterSpacing: '0.05em' }}>
-            © 2025 Akuma Studio. All rights reserved.
+            © 2025 MujiiRu Studio. All rights reserved.
           </p>
           <div style={{ display: 'flex', alignItems: 'center', gap: '6px', fontSize: '11px', color: 'var(--dust-gray)' }}>
             <span>Made with</span>

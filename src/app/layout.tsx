@@ -4,11 +4,11 @@ import { Navigation } from '@/components/layout/Navigation'
 import { Footer } from '@/components/layout/Footer'
 
 export const metadata: Metadata = {
-  title: 'Akuma Studio — Illustration & Visual Art',
+  title: 'MujiiRu Studio — Illustration & Visual Art',
   description: 'Independent illustrator specializing in anime-inspired fantasy artwork, VTuber assets, and visual storytelling.',
   keywords: ['illustrator', 'anime art', 'VTuber assets', 'fantasy illustration', 'commission'],
   openGraph: {
-    title: 'Akuma Studio',
+    title: 'MujiiRu Studio',
     description: 'Bringing stories to life through illustration.',
     type: 'website',
   },

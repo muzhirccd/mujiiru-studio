@@ -51,7 +51,7 @@ export default function AboutPage() {
                   color: 'var(--charcoal)',
                   fontFamily: 'var(--font-accent)',
                 }}>
-                  akuma / independent illustrator ✦
+                  MujiiRu / independent illustrator ✦
                 </div>
               </div>
 
@@ -79,7 +79,7 @@ export default function AboutPage() {
             <div>
               <div style={{ marginBottom: '48px' }}>
                 <h2 className="display-heading" style={{ fontSize: 'clamp(28px, 4vw, 44px)', color: 'var(--charcoal)', marginBottom: '24px' }}>
-                  Hello, I&apos;m Akuma.
+                  Hello, I&apos;m MujiiRu.
                 </h2>
                 <p style={{ fontSize: '15px', color: 'var(--charcoal)', lineHeight: 1.85, marginBottom: '20px' }}>
                   I&apos;m an independent illustrator with a love for anime-inspired fantasy art and character-driven storytelling. My work lives somewhere between the quiet calm of an artbook and the vivid energy of a key visual — intimate, atmospheric, and character-first.

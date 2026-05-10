@@ -72,7 +72,7 @@ export default function ContactPage() {
                   {[
                     { label: 'X (Twitter)', icon: '𝕏', href: '#' },
                     { label: 'Instagram', icon: '◎', href: '#' },
-                    { label: 'Email directly', icon: '✉', href: 'mailto:hello@akumastudio.art' },
+                    { label: 'Email directly', icon: '✉', href: 'mailto:hello@mujiirustudio.art' },
                   ].map((social) => (
                     <a
                       key={social.label}

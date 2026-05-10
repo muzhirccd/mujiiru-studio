@@ -73,7 +73,7 @@ export default function NotesPage() {
                     fontFamily: 'var(--font-accent)',
                   }}>
                     <span style={{ color: 'var(--sakura-pink)' }}>✦</span>
-                    akuma studio
+                    MujiiRu studio
                   </div>
                 </div>
               </div>

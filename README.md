@@ -1,4 +1,4 @@
-# Akuma Studio — Portfolio Website
+# MujiiRu Studio — Portfolio Website
 
 A quiet modern anime-inspired illustrator portfolio built with Next.js.
 
@@ -18,7 +18,7 @@ Install these before starting (click the links, download, run the installer):
 
 1. Open VS Code
 2. Go to **File → Open Folder**
-3. Select this `akuma-studio` folder
+3. Select this `mujiiru-studio` folder
 4. You should see all the files on the left sidebar
 
 ---
@@ -78,8 +78,8 @@ Open it in VS Code, edit the text inside the quotes, and save. The browser will 
 
 1. Go to https://github.com and create a free account if you don't have one
 2. Click the **+** button (top right) → **New repository**
-3. Name it `akuma-studio`, set it to **Public**, click **Create repository**
-4. Copy the URL it gives you (looks like `https://github.com/yourname/akuma-studio.git`)
+3. Name it `mujiiru-studio`, set it to **Public**, click **Create repository**
+4. Copy the URL it gives you (looks like `https://github.com/yourname/mujiiru-studio.git`)
 
 Back in VS Code terminal (stop the dev server first with `Ctrl+C`):
 
@@ -88,7 +88,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/akuma-studio.git
+git remote add origin https://github.com/YOUR-USERNAME/mujiiru-studio.git
 git push -u origin main
 ```
 
@@ -100,7 +100,7 @@ Replace `YOUR-USERNAME` with your actual GitHub username.
 
 1. Go to https://vercel.com and sign up with your GitHub account
 2. Click **Add New → Project**
-3. Find `akuma-studio` in the list and click **Import**
+3. Find `mujiiru-studio` in the list and click **Import**
 4. Leave all settings as-is and click **Deploy**
 5. Wait about 1 minute — your site will be live at a `.vercel.app` URL
 
@@ -124,7 +124,7 @@ Vercel will automatically rebuild and update your live site within ~1 minute.
 ## File Structure
 
 ```
-akuma-studio/
+mujiiru-studio/
 ├── src/
 │   ├── app/               ← Each page of the website
 │   │   ├── page.tsx       ← Homepage
