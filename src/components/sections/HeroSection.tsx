@@ -121,18 +121,11 @@ export function HeroSection() {
             </div>
 
             <div className="hero-artwork" style={{ aspectRatio: '3/4', maxHeight: '580px', position: 'relative' }}>
-              <div style={{
-                width: '100%',
-                height: '100%',
-                background: 'linear-gradient(135deg, #4a1a2a 0%, #8a3a4a 35%, #c8708a 60%, #e8a4b0 100%)',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                fontSize: '80px',
-                borderRadius: '16px',
-              }}>
-                🌸
-              </div>
+              <img 
+                src="/hero-image.jpg" 
+                alt="Hero artwork" 
+                style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '16px' }}
+              />
               <div style={{
                 position: 'absolute',
                 inset: 0,
